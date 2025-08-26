@@ -1,2 +1,2 @@
-# flutter-shape-container
-Custom package for clipping a container by a shape like trapezoid.
+# flutter-shape-wrapper
+Custom package for clipping a child by a shape like trapezoid.
